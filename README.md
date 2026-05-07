@@ -10,17 +10,19 @@ Entra ID.<br />
 - Windows 11
 <h2>Authentication Methods </h2>
 <p>
-<img width="932" height="332" alt="chris authentication method" src="https://github.com/user-attachments/assets/f781da15-ccbe-4136-8edc-16039fcf62d9" />
+<img width="928" height="373" alt="chris authentication" src="https://github.com/user-attachments/assets/686580ca-455d-4d2b-8242-35e2d63b53a9" />
 </p>
 <p>
 Assigned phone number as Authentication method for user Chris Walker.
 </p>
 <br />
 <p>
-<img width="929" height="329" alt="jordan authentication method" src="https://github.com/user-attachments/assets/e5a11ba6-892f-4d1a-afa5-cd20e67d3b43" />
+<img width="926" height="371" alt="jordan authentication" src="https://github.com/user-attachments/assets/61b845e0-dced-4d4c-97f8-70fcf1b21be8" />
 </p>
 <p>
 Assigned phone number as Authentication method for user Jordan Lee.
 </p>
+
+
 
 
