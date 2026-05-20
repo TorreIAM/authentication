@@ -13,7 +13,7 @@ Entra ID.<br />
 <img width="928" height="373" alt="chris authentication" src="https://github.com/user-attachments/assets/686580ca-455d-4d2b-8242-35e2d63b53a9" />
 </p>
 <p>
-Configured phone-based authentication method for user Chris Walker in Microsoft Entra ID.
+Assigned phone number as Authentication method for user Chris Walker.
 </p>
 <br />
 <p>
